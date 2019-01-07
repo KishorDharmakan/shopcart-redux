@@ -1,0 +1,84 @@
+{
+    "Products": [
+            {
+                "product_id": "S0001",
+                "product_name": "MS Worrd 2015",
+                "product_description": "MS Worrd is used for documentation needs",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Software",
+                "product_price": "Rs 1500"
+            },
+            {
+                "product_id": "S0002",
+                "product_name": "MS Exccel 2015",
+                "product_description": "MS Exccel is used for calculation needs",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Software",
+                "product_price": "Rs 1450"
+            },
+            {
+                "product_id": "S0003",
+                "product_name": "MS Powerppoint 2015",
+                "product_description": "MS Powerppoint is used for presentation needs",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Software",
+                "product_price": "Rs 1550"
+            },
+            {
+                "product_id": "P0001",
+                "product_name": "i3",
+                "product_description": "i3 Processor with 3.2Ghz speed",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Processor",
+                "product_price": "Rs 8500"
+            },
+            {
+                "product_id": "P0002",
+                "product_name": "i5",
+                "product_description": "i5 Processor  with 4.2Ghz speed",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Processor",
+                "product_price": "Rs 14450"
+            },
+            {
+                "product_id": "P0003",
+                "product_name": "i7",
+                "product_description": "i7 Processor  with 5.2Ghz speed",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Processor",
+                "product_price": "Rs 22550"
+            },
+            {
+                "product_id": "P0004",
+                "product_name": "Pentium 4",
+                "product_description": "Pentium 4 Processor  with 2.2Ghz speed",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "Processor",
+                "product_price": "Rs 22550"
+            },
+            {
+                "product_id": "R0001",
+                "product_name": "Corssair 8GB",
+                "product_description": "Corssair Vengeance 8GB DDR4 LPX 2400MHz C16 RAM Kit for X99 Chipset (CMK8GX4M1A2400C16R)",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "RAM",
+                "product_price": "Rs 5500"
+            },
+            {
+                "product_id": "R0002",
+                "product_name": "HyperXY Fury 8GB",
+                "product_description": "HyperXY Fury Black 8 GB CL15 DIMM DDR4 2400 MT/s Internal Memory (HX424C15FB2/8)",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "RAM",
+                "product_price": "Rs 6000"
+            },
+            {
+                "product_id": "R0003",
+                "product_name": "Livingston 8GB",
+                "product_description": "Livingston ValueRAM 8GB 2400Mhz DDR4 Non_ECC CL17 SODIMM 1Rx8 (KVR24S17S8/8)",
+                "product_photo": "https://picsum.photos/200/300/?random",
+                "product_category": "RAM",
+                "product_price": "Rs 6000"
+            }
+    ]
+}
